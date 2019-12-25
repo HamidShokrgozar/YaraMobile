@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YaraDemo</string>
+    <string name="msg_not_found">Information not found Please check your internet connection</string>
+    <string name="title_box_office">BoxOffice:</string>
+    <string name="title_awards">Awards</string>
+    <string name="title_plot">Plot</string>
+</resources>
